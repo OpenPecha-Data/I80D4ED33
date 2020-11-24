@@ -3,5 +3,22 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W22073
   title: ཧོར་གླིང་གཡུལ་འགྱེད།
-  volume: ''
+  volume:
+    f498f36e76764174b40163b3659c5bb4:
+      image_group_id: I1KG17892
+      title: Volume 1 of hor gling g.yul 'gyed
+      volume_number: 1
+      total_pages: 452
+    73fa30e1e7994a268333f4698f56a562:
+      image_group_id: I1KG17893
+      title: Volume 2 of hor gling g.yul 'gyed
+      volume_number: 2
+      total_pages: 606
   author: ''
+ebook_metadata:
+  title: ཧོར་གླིང་གཡུལ་འགྱེད།
+  author: ''
+  sku: P006979
+  cover: cover.jpg
+  layers:
+  - pagination
