@@ -5,16 +5,18 @@ source_metadata:
   title: ཧོར་གླིང་གཡུལ་འགྱེད།
   author: ''
   volumes:
-    67cfba6605764e5eb0462512ade3b456:
+    f498f36e76764174b40163b3659c5bb4:
       image_group_id: I1KG17892
-      title: ''
+      title: Volume 1 of hor gling g.yul 'gyed
       volume_number: 1
       total_pages: 452
-    aad0b3e4661c420480d8ad7a96312e6d:
+      base_file: v001.txt
+    73fa30e1e7994a268333f4698f56a562:
       image_group_id: I1KG17893
-      title: ''
+      title: Volume 2 of hor gling g.yul 'gyed
       volume_number: 2
       total_pages: 606
+      base_file: v002.txt
 ebook_metadata:
   title: ཧོར་གླིང་གཡུལ་འགྱེད།
   author: ''
